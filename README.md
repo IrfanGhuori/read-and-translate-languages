@@ -1,6 +1,7 @@
 ### Content Reader Language translator
 
-<a href="https://www.mediafire.com/file/cqgypdo9wbslsuu/Powerful-Text-to-Speech.zip/file" download="FILENAME">if it doesn't work download from mediafire</a>
+<a href="https://www.mediafire.com/file/cqgypdo9wbslsuu/Powerful-Text-to-Speech.zip/file" download="Powerful-Text-to-Speech.zip">if it doesn't work download from mediafire</a>
+<a href="https://www.youtube.com/watch?v=yX2YHVwj8_o"> Watch Demo </a> 
 
 
 
